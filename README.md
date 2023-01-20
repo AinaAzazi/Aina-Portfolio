@@ -1,4 +1,4 @@
-# Aina's_portfolio
+# Aina's Portfolio
 
 # **Project 1: Classification of User Comments on YouTube** (https://archive.ics.uci.edu/ml/machine-learning-databases/00380/)
 # https://github.com/AinaAzazi/Project-1.git
