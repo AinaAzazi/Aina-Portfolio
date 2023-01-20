@@ -1,6 +1,6 @@
-# Aina-s_portfolio
+# Aina's_portfolio
 
-# [Project 1]  **Classification of User Comments on YouTube** (https://archive.ics.uci.edu/ml/machine-learning-databases/00380/)
+# **Project 1: Classification of User Comments on YouTube** (https://archive.ics.uci.edu/ml/machine-learning-databases/00380/)
 # https://github.com/AinaAzazi/Project-1.git
 
 This is a project that I did by following the tutorial from the instructor during my learning of Naive Bayes classification.
